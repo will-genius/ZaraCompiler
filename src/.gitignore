@@ -1,0 +1,13 @@
+# IntelliJ specific configuration
+.idea/
+*.iml
+*.iws
+
+# Compiled class files (We only want source code!)
+out/
+target/
+build/
+*.class
+
+# OS junk
+.DS_Store
